@@ -4,7 +4,8 @@ Example for connecting to a wii balance board via bluetooth with an ESP32
 
 # Instructions
 
-```idf.py set-target [board-name]
+```
+idf.py set-target [board-name]
 idf.py flash 
 ```
 
